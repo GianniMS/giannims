@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/YOUR_CPANEL_USERNAME/public_html/
+    - export DEPLOYPATH=/home/giannims/public_html/
     - npm install
     - npm run build
     - /bin/cp -R build/* $DEPLOYPATH
