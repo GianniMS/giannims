@@ -6,10 +6,10 @@
 ---
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white)](https://giannims.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianni-mendon%C3%A7a-semedo-447667234/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA3DGaSm6epEeLjND-SWd1A)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannims2002@gmail.com)
 
 ---
 
@@ -57,4 +57,4 @@
 
 ---
 
-⭐️ From [Gianni](https://github.com/giannims)
+⭐️ From [GianniMS](https://github.com/giannims)
