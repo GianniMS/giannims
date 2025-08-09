@@ -57,9 +57,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=giannims&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giannims&layout=compact&theme=tokyonight)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Gianni](https://github.com/giannims)
